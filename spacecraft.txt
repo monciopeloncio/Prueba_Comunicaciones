@@ -1,0 +1,11 @@
+type
+Destructor Estelar
+BTL Ala-Y
+Firespray-31
+Caza estelar N-1
+TIE Avanzado X1
+Lanzadera T-4a Lambda
+Aerodeslizador T-47
+TIE/LN
+T-65 Ala-X (X-Wing)
+Halcón Milenario
